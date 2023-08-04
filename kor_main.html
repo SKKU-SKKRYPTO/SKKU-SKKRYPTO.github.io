@@ -10,7 +10,6 @@
   <link rel="stylesheet" media="screen and (min-width: 799px)" href="desktop.css" />
   <link href="https://fonts.googleapis.com/css2?family=Palanquin+Dark:wght@400;600&family=Shrikhand&display=swap"
     rel="stylesheet" />
-  <script src="desktop.js"></script>
 </head>
 
 <body>
@@ -19,7 +18,7 @@
     <ul>
       <li><a href="#window1">About Us</a></li>
       <li><a href="#window2">Our Journey</a></li>
-      <li><a href="#window3">Curriculum</li>
+      <li><a href="#window3">Curriculum</a></li>
       <li><a href="#window4">FAQ</a></li>
       <li><a href="#window5">Join Us</a></li>
     </ul>
@@ -58,3 +57,21 @@
   </section>
 
 </body>
+
+<script>
+  if (window.matchMedia("(max-width: 798px)").matches) {
+    var script = document.createElement('script');
+    script.src = 'mobile.js';
+    document.body.appendChild(script);
+  }
+</script>
+
+<script>
+  if (window.matchMedia("(min-width: 799px)").matches) {
+    var script = document.createElement('script');
+    script.src = 'desktop.js';
+    document.body.appendChild(script);
+  }
+</script>
+
+</html>
