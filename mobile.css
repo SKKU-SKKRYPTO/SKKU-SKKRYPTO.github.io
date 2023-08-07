@@ -208,7 +208,7 @@ nav ul li a {
 
 /* Window 3 */
 #window3 {
-  background-image: url('src/square.png');
+  background-image: url('src/squaremobile.png');
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
@@ -258,7 +258,7 @@ nav ul li a {
   font-size: 10px;
   text-align: left;
   position: absolute;
-  line-height: 3;
+  line-height: 3.2;
   top: 22%;
   left: 7%;
   position: absolute;
@@ -271,7 +271,7 @@ nav ul li a {
   font-size: 10px;
   text-align: left;
   position: absolute;
-  line-height: 2.5;
+  line-height: 2.8;
   top: 22%;
   left: 7%;
   position: absolute;
@@ -301,7 +301,7 @@ nav ul li a {
   font-size: 10px;
   text-align: right;
   position: absolute;
-  line-height: 3;
+  line-height: 3.2;
   top: 63%;
   right: 7%;
   position: absolute;
@@ -314,7 +314,7 @@ nav ul li a {
   font-size: 10px;
   text-align: right;
   position: absolute;
-  line-height: 2.5;
+  line-height: 2.8;
   top: 62%;
   right: 7%;
   position: absolute;
@@ -358,7 +358,7 @@ nav ul li a {
 
 #faqmobile {
   position: absolute;
-  top: 160px;
+  top: 120px;
   left: 50%;
   transform: translateX(-50%);
   color: #ffffff;
@@ -372,9 +372,9 @@ nav ul li a {
 
 #faqengmobile {
   position: absolute;
-  top: 55%;
+  top: 110px;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
   color: #ffffff;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
