@@ -103,7 +103,7 @@ nav ul li a {
   text-align: center;
   position: absolute;
   line-height: 5;
-  top: 50%;
+  top: 47%;
 }
 
 #introeng {
@@ -150,7 +150,7 @@ nav ul li a {
   text-align: left;
   position: absolute;
   line-height: 1.5;
-  top: 6%;
+  top: 5%;
 }
 
 #window2 .horizon-line {
@@ -160,7 +160,7 @@ nav ul li a {
 #window2 p {
   color: #ffffff;
   font-family: 'Pretendard-Regular', sans-serif;
-  font-weight: 550;
+  font-weight: 560;
   font-size: 12px;
   text-align: center;
   position: absolute;
@@ -231,7 +231,7 @@ nav ul li a {
   text-align: left;
   position: absolute;
   line-height: 1.5;
-  top: 6%;
+  top: 5%;
 }
 
 #research h2 {
@@ -242,7 +242,7 @@ nav ul li a {
   text-align: left;
   position: absolute;
   line-height: 1.5;
-  top: 17%;
+  top: 16%;
   left: 7%;
   position: absolute;
 }
@@ -258,8 +258,8 @@ nav ul li a {
   font-size: 10px;
   text-align: left;
   position: absolute;
-  line-height: 2;
-  top: 23%;
+  line-height: 2.5;
+  top: 22%;
   left: 7%;
   position: absolute;
 }
@@ -271,8 +271,8 @@ nav ul li a {
   font-size: 10px;
   text-align: left;
   position: absolute;
-  line-height: 3;
-  top: 23%;
+  line-height: 2.5;
+  top: 22%;
   left: 7%;
   position: absolute;
 }
@@ -301,7 +301,7 @@ nav ul li a {
   font-size: 10px;
   text-align: right;
   position: absolute;
-  line-height: 2;
+  line-height: 2.5;
   top: 63%;
   right: 7%;
   position: absolute;
@@ -314,8 +314,8 @@ nav ul li a {
   font-size: 10px;
   text-align: right;
   position: absolute;
-  line-height: 3;
-  top: 63%;
+  line-height: 2.5;
+  top: 62%;
   right: 7%;
   position: absolute;
 }
@@ -341,7 +341,7 @@ nav ul li a {
   text-align: left;
   position: absolute;
   line-height: 1.5;
-  top: 6%;
+  top: 5%;
 }
 
 .Q {
@@ -404,42 +404,42 @@ nav ul li a {
 }
 
 .gmail {
-  top: 35%;
+  top: 37%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 65px;
+  width: 60px;
   position: absolute;
 }
 
 .github {
-  top: 48%;
+  top: 51%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 65px;
+  width: 60px;
   position: absolute;
 }
 
 .medium {
-  top: 61%;
+  top: 65%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 65px;
+  width: 60px;
   position: absolute;
 }
 
 .brunch {
-  top: 74%;
+  top: 79%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 65px;
+  width: 60px;
   position: absolute;
 }
 
 .insta {
-  top: 87%;
+  top: 93%;
   left: 50%;
   transform: translate(-50%, -50%);
-  width: 65px;
+  width: 60px;
   position: absolute;
 }
 
