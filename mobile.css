@@ -254,11 +254,11 @@ nav ul li a {
 #researchteammobile {
   color: #ffffff;
   font-family: 'Pretendard-Regular', sans-serif;
-  font-weight: 600;
+  font-weight: 550;
   font-size: 10px;
   text-align: left;
   position: absolute;
-  line-height: 3;
+  line-height: 2;
   top: 23%;
   left: 7%;
   position: absolute;
@@ -301,7 +301,7 @@ nav ul li a {
   font-size: 10px;
   text-align: right;
   position: absolute;
-  line-height: 3;
+  line-height: 2;
   top: 63%;
   right: 7%;
   position: absolute;
