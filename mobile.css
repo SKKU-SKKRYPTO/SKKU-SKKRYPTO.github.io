@@ -130,10 +130,6 @@ b:hover {
   text-align: center;
 }
 
-#background-video {
-  display: none;
-}
-
 #window2 {
   display: flex;
   align-items: center;
@@ -150,4 +146,8 @@ b:hover {
 #window5 {
   overflow-x: hidden;
   overflow-y: hidden;
+}
+
+#background-video {
+  display: none;
 }
