@@ -116,17 +116,15 @@ b:hover {
   height: 100vh;
 }
 
-#window1 p {
+#intro {
   color: #ffffff;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 450;
   font-size: 30px;
   text-align: center;
   position: absolute;
-  line-height: 1.5;
-  top: 75%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  line-height: 1.7;
+  top: 63%;
 }
 
 #window1 img {
@@ -137,7 +135,11 @@ b:hover {
   width: 30%;
 }
 
+/* Window 2 */
 #window2 {
+  background-image: url('src/connection.png');
+  background-repeat: no-repeat;
+  background-size: cover;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -151,12 +153,11 @@ b:hover {
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 600;
   font-size: 40px;
-  text-align: center;
+  text-align: left;
   position: absolute;
   line-height: 1.5;
-  top: 13%;
-  left: 11%;
-  transform: translate(-50%, -50%);
+  top: 10%;
+  left: 100px;
 }
 
 #window2 .horizon-line {
@@ -210,6 +211,89 @@ b:hover {
   left: 84%;
 }
 
+/* Window 3 */
+#window3 {
+  background-image: url('src/square.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  height: 100vh;
+}
+
+#window3 h1 {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 40px;
+  text-align: left;
+  position: absolute;
+  line-height: 1.5;
+  top: 10%;
+  left: 100px;
+}
+
+#research h2 {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  text-align: left;
+  position: absolute;
+  line-height: 1.5;
+  top: 21%;
+  left: 100px;
+  position: absolute;
+}
+
+#researchteam {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  text-align: left;
+  position: absolute;
+  line-height: 2.8;
+  top: 29%;
+  left: 100px;
+  position: absolute;
+}
+
+#window3 img {
+  width: auto;
+  height: 200px;
+}
+
+#dev h2 {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  text-align: right;
+  position: absolute;
+  line-height: 1.5;
+  top: 58%;
+  right: 110px;
+  position: absolute;
+}
+
+#devteam {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  text-align: right;
+  position: absolute;
+  line-height: 2.8;
+  top: 66%;
+  right: 110px;
+  position: absolute;
+}
+
+/* Window 5 */
 #window5 {
   display: flex;
   align-items: center;

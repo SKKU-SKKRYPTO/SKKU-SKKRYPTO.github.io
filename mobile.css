@@ -88,7 +88,7 @@ b:hover {
 
 /* Window 1 */
 #window1 {
-  background-image: url('src/Space.jpg');
+  background-image: url('src/space.png');
   display: flex;
   align-items: center;
   justify-content: center;
