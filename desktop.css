@@ -356,6 +356,24 @@ b:hover {
   transform: translate(-50%, -50%);
 }
 
+#faq h2 {
+  color: #1ada70;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 25px;
+  text-align: left;
+  line-height: 3.5;
+}
+
+#faq h3 {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  text-align: left;
+  line-height: 3.5;
+}
+
 #faqeng {
   position: absolute;
   top: 69%;
