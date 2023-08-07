@@ -358,9 +358,9 @@ nav ul li a {
 
 #faqmobile {
   position: absolute;
-  top: 55%;
+  top: 160px;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translateX(-50%);
   color: #ffffff;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
