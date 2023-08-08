@@ -246,7 +246,6 @@ nav ul li a {
   font-size: 15px;
   text-align: left;
   line-height: 1.5;
-  margin-left: -10%;
 }
 
 #researchteam {
@@ -260,7 +259,6 @@ nav ul li a {
   font-size: 10px;
   text-align: left;
   line-height: 3.2;
-  margin-left: -10%;
 }
 
 #researchteammobileeng {
@@ -269,18 +267,16 @@ nav ul li a {
   font-weight: 550;
   font-size: 10px;
   text-align: left;
-  line-height: 2.8;
+  line-height: 2.5;
 }
 
 #dev h2 {
-  margin-top: 15px;
   color: #1ada80;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
   font-size: 15px;
   text-align: right;
   line-height: 1.5;
-  margin-right: -10%;
 }
 
 #devteam {
@@ -294,7 +290,6 @@ nav ul li a {
   font-size: 10px;
   text-align: right;
   line-height: 3.2;
-  margin-right: -10%;
 }
 
 #devteammobileeng {
@@ -302,7 +297,8 @@ nav ul li a {
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
   font-size: 10px;
-  line-height: 2.8;
+  text-align: right;
+  line-height: 2.5;
 }
 
 /* Window 4 */
@@ -389,7 +385,7 @@ nav ul li a {
 }
 
 .gmail {
-  top: 37%;
+  top: 36%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 60px;
@@ -397,7 +393,7 @@ nav ul li a {
 }
 
 .github {
-  top: 51%;
+  top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 60px;
@@ -405,7 +401,7 @@ nav ul li a {
 }
 
 .medium {
-  top: 65%;
+  top: 64%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 60px;
@@ -413,7 +409,7 @@ nav ul li a {
 }
 
 .brunch {
-  top: 79%;
+  top: 78%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 60px;
@@ -421,7 +417,7 @@ nav ul li a {
 }
 
 .insta {
-  top: 93%;
+  top: 92%;
   left: 50%;
   transform: translate(-50%, -50%);
   width: 60px;
