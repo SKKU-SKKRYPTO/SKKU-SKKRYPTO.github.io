@@ -240,12 +240,13 @@ b:hover {
 }
 
 #window3 img {
-  width: 18%;
+  width: 17vw;
 }
 
-@media screen and (max-aspect-ratio: 16.8/9) {
+@media screen and (max-aspect-ratio: 17/9) {
   #window3 img {
-    display: none;
+    height: 18vh;
+    width: auto;
   }
 }
 
@@ -284,7 +285,6 @@ b:hover {
   line-height: 2.8;
   top: 29%;
   left: 100px;
-  position: absolute;
 }
 
 #researchteammobile {
@@ -333,7 +333,6 @@ b:hover {
   line-height: 2.8;
   top: 66%;
   right: 110px;
-  position: absolute;
 }
 
 #devteammobile {
