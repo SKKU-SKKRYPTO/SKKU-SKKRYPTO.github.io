@@ -225,7 +225,7 @@ nav ul li a {
 
 .content {
   position: absolute;
-  margin-top: 40px;
+  margin-top: 20%;
 }
 
 #window3 h1 {
@@ -273,7 +273,7 @@ nav ul li a {
 }
 
 #dev h2 {
-  margin-top: 40px;
+  margin-top: 20px;
   color: #1ada80;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
