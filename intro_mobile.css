@@ -19,7 +19,7 @@ section {
 body {
   margin: 0;
   padding: 0;
-  background-image: url('src/Galaxy.jpg');
+  background-image: url('src/circle.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 50% 0;
