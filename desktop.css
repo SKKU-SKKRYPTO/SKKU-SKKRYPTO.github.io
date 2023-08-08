@@ -291,6 +291,10 @@ b:hover {
   display: none;
 }
 
+#researchteammobileeng {
+  display: none;
+}
+
 #research1 {
   position: absolute;
   top: 36%;
@@ -333,6 +337,10 @@ b:hover {
 }
 
 #devteammobile {
+  display: none;
+}
+
+#researchteammobileeng {
   display: none;
 }
 
