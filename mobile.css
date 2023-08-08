@@ -223,6 +223,11 @@ nav ul li a {
   display: none;
 }
 
+.content {
+  position: absolute;
+  margin-top: 40px;
+}
+
 #window3 h1 {
   color: #ffffff;
   font-family: 'Pretendard-Regular', sans-serif;
@@ -240,11 +245,8 @@ nav ul li a {
   font-weight: 550;
   font-size: 15px;
   text-align: left;
-  position: absolute;
   line-height: 1.5;
-  top: 16%;
-  left: 7%;
-  position: absolute;
+  margin-left: -10%;
 }
 
 #researchteam {
@@ -257,11 +259,8 @@ nav ul li a {
   font-weight: 550;
   font-size: 10px;
   text-align: left;
-  position: absolute;
   line-height: 3.2;
-  top: 22%;
-  left: 7%;
-  position: absolute;
+  margin-left: -10%;
 }
 
 #researchteammobileeng {
@@ -270,24 +269,18 @@ nav ul li a {
   font-weight: 550;
   font-size: 10px;
   text-align: left;
-  position: absolute;
   line-height: 2.8;
-  top: 22%;
-  left: 7%;
-  position: absolute;
 }
 
 #dev h2 {
+  margin-top: 40px;
   color: #1ada80;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
   font-size: 15px;
-  text-align: left;
-  position: absolute;
+  text-align: right;
   line-height: 1.5;
-  top: 56%;
-  right: 30px;
-  position: absolute;
+  margin-right: -10%;
 }
 
 #devteam {
@@ -300,11 +293,8 @@ nav ul li a {
   font-weight: 550;
   font-size: 10px;
   text-align: right;
-  position: absolute;
   line-height: 3.2;
-  top: 63%;
-  right: 7%;
-  position: absolute;
+  margin-right: -10%;
 }
 
 #devteammobileeng {
@@ -312,12 +302,7 @@ nav ul li a {
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
   font-size: 10px;
-  text-align: right;
-  position: absolute;
   line-height: 2.8;
-  top: 62%;
-  right: 7%;
-  position: absolute;
 }
 
 /* Window 4 */
