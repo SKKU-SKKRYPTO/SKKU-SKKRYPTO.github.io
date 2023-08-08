@@ -250,6 +250,14 @@ b:hover {
   }
 }
 
+@media screen and (min-aspect-ratio: 2.1/1) {
+  #window3 img {
+    margin-top: 6vh;
+    height: 21vh;
+    width: auto;
+  }
+}
+
 #window3 h1 {
   color: #ffffff;
   font-family: 'Pretendard-Regular', sans-serif;
