@@ -240,9 +240,13 @@ b:hover {
 }
 
 #window3 img {
-  width: auto;
-  height: 200px;
-  position: absolute;
+  width: 18%;
+}
+
+@media screen and (max-aspect-ratio: 16.8/9) {
+  #window3 img {
+    display: none;
+  }
 }
 
 #window3 h1 {
@@ -283,22 +287,22 @@ b:hover {
   position: absolute;
 }
 
-#researchteammbile {
+#researchteammobile {
   display: none;
 }
 
 #research1 {
   position: absolute;
-  top: 33%;
-  left: 76%;
+  top: 36%;
+  left: 86%;
   transform: translate(-50%, -50%);
   z-index: 1;
 }
 
 #research2 {
   position: absolute;
-  top: 45%;
-  left: 85%;
+  top: 48%;
+  left: 77%;
   transform: translate(-50%, -50%);
 }
 
@@ -328,17 +332,21 @@ b:hover {
   position: absolute;
 }
 
+#devteammobile {
+  display: none;
+}
+
 #dev1 {
   position: absolute;
-  top: 73%;
-  left: 18%;
+  top: 72%;
+  left: 14%;
   transform: translate(-50%, -50%);
 }
 
 #dev2 {
   position: absolute;
-  top: 83%;
-  left: 28%;
+  top: 82%;
+  left: 24%;
   transform: translate(-50%, -50%);
   z-index: 1;
 }
