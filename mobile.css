@@ -239,7 +239,17 @@ nav ul li a {
   top: 5%;
 }
 
-#research h2 {
+#researchkor {
+  color: #1ada80;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 550;
+  font-size: 15px;
+  text-align: left;
+  line-height: 1.5;
+  left: -10px;
+}
+
+#researcheng {
   color: #1ada80;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
@@ -259,6 +269,7 @@ nav ul li a {
   font-size: 10px;
   text-align: left;
   line-height: 3.2;
+  left: -10px;
 }
 
 #researchteammobileeng {
@@ -267,16 +278,26 @@ nav ul li a {
   font-weight: 550;
   font-size: 10px;
   text-align: left;
-  line-height: 2.5;
+  line-height: 2;
 }
 
-#dev h2 {
+#devkor {
   color: #1ada80;
   font-family: 'Pretendard-Regular', sans-serif;
   font-weight: 550;
   font-size: 15px;
   text-align: right;
   line-height: 1.5;
+}
+
+#deveng {
+  color: #1ada80;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 550;
+  font-size: 15px;
+  text-align: right;
+  line-height: 1.5;
+  right: -8px;
 }
 
 #devteam {
@@ -298,7 +319,7 @@ nav ul li a {
   font-weight: 550;
   font-size: 10px;
   text-align: right;
-  line-height: 2.5;
+  line-height: 2;
 }
 
 /* Window 4 */
