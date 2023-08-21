@@ -387,35 +387,8 @@ nav ul li a {
   white-space: nowrap;
 }
 
-/* window 5 */
+/* Window 5 */
 #window5 {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  flex-direction: column;
-  position: relative;
-  height: 30vh;
-  background-color: #181818;
-}
-
-#window5 h1 {
-  color: #ffffff;
-  font-family: 'Pretendard-Regular', sans-serif;
-  font-weight: 600;
-  font-size: 20px;
-  text-align: left;
-  position: absolute;
-  line-height: 1.5;
-  top: 50px;
-}
-
-.lbanklabs {
-  margin-top: 50px;
-  width: 200px;
-}
-
-/* Window 6 */
-#window6 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -471,6 +444,33 @@ nav ul li a {
   transform: translate(-50%, -50%);
   width: 60px;
   position: absolute;
+}
+
+/* window 6 */
+#window6 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  height: 30vh;
+  background-color: #181818;
+}
+
+#window6 h1 {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  text-align: left;
+  position: absolute;
+  line-height: 1.5;
+  top: 50px;
+}
+
+.lbanklabs {
+  margin-top: 50px;
+  width: 200px;
 }
 
 #window1,
