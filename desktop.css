@@ -441,8 +441,35 @@ b:hover {
   line-height: 3.3;
 }
 
-/* Window 5 */
+/* window 5 */
 #window5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  height: 30vh;
+  background-color: #181818;
+}
+
+#window5 h1 {
+  color: #ffffff;
+  font-family: 'Pretendard-Regular', sans-serif;
+  font-weight: 600;
+  font-size: 30px;
+  text-align: center;
+  position: absolute;
+  line-height: 1.5;
+  top: 10%;
+}
+
+.lbanklabs {
+  margin-top: 50px;
+  width: 300px;
+}
+
+/* Window 6 */
+#window6 {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -457,8 +484,8 @@ b:hover {
   margin-left: 33%;
 }
 
-#window5 img {
-  width: 8%;
+#window6 img {
+  width: 150px;
   margin-right: 65px;
 }
 
@@ -466,7 +493,8 @@ b:hover {
 #window2,
 #window3,
 #window4,
-#window5 {
+#window5,
+#window6 {
   overflow-x: hidden;
   overflow-y: hidden;
 }
